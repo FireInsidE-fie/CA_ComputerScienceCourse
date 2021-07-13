@@ -8,3 +8,6 @@ print("E E E", "       S S")
 print("E", "               S")
 print("E", "               S")
 print("E E E E E", "  S S S")
+
+# Pausing the program...
+input()
