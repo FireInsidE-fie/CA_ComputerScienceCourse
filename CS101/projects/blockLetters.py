@@ -1,3 +1,6 @@
+# https://www.codecademy.com/paths/computer-science/tracks/cspath-cs-101/
+# modules/cspath-python-hello-world/projects/python-block-letters
+
 # Etan Stettler
 # I'm trying to learn how to play harp, but I don't practise so much.
 

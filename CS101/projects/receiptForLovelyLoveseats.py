@@ -1,3 +1,6 @@
+# https://www.codecademy.com/paths/computer-science/tracks/cspath-cs-101/
+# modules/cspath-python-hello-world/projects/python-furniture-store
+
 # Defining articles...
 lovely_loveseat_description = """Lovely Loveseat. Tufted polyester blend on wood.
 32 inches high x 40 inches wide x 30 inches deep. Red or white."""
