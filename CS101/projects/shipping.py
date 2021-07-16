@@ -1,7 +1,8 @@
 # https://www.codecademy.com/paths/computer-science/tracks/cspath-cs-101/
 # modules/cspath-python-control-flow/projects/python-sals-shipping
 
-weight = input("Please input the weight in pounds of your package : ")
+weight = float(input("Please input the weight in pounds of your package : "))
+
 # Ground shipping
 if weight <= 2:
     print("Ground shipping cost :", 20 + (1.50 * weight))
